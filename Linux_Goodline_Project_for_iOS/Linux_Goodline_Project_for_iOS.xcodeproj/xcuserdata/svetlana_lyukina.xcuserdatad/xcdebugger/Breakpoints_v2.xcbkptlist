@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CD8C05EA-93F2-4DB6-9BEB-33422C997CC0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC14CA54-B31C-4A1A-9E0C-C26BB59A65D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Linux_Goodline_Project_for_iOS/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AC14CA54-B31C-4A1A-9E0C-C26BB59A65D5 - 63a5891869166422"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Linux_Goodline_Project_for_iOS.ViewController.languageTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Linux_Goodline_Project_for_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svetlana_lyukina/Desktop/Linux_Goodline_Project_for_iOS/Linux_Goodline_Project_for_iOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "AC14CA54-B31C-4A1A-9E0C-C26BB59A65D5 - b16f53033f98942e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Linux_Goodline_Project_for_iOS.ViewController.languageTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Linux_Goodline_Project_for_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svetlana_lyukina/Desktop/Linux_Goodline_Project_for_iOS/Linux_Goodline_Project_for_iOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "AC14CA54-B31C-4A1A-9E0C-C26BB59A65D5 - 2369a9dce8d18ce5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Linux_Goodline_Project_for_iOS.ViewController.languageTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Linux_Goodline_Project_for_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svetlana_lyukina/Desktop/Linux_Goodline_Project_for_iOS/Linux_Goodline_Project_for_iOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "AC14CA54-B31C-4A1A-9E0C-C26BB59A65D5 - c1d51827a1260a3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Linux_Goodline_Project_for_iOS.ViewController.languageTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Linux_Goodline_Project_for_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svetlana_lyukina/Desktop/Linux_Goodline_Project_for_iOS/Linux_Goodline_Project_for_iOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "AC14CA54-B31C-4A1A-9E0C-C26BB59A65D5 - 3cb99ea362de6f25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Linux_Goodline_Project_for_iOS.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Linux_Goodline_Project_for_iOS.ViewController"
+                  moduleName = "Linux_Goodline_Project_for_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svetlana_lyukina/Desktop/Linux_Goodline_Project_for_iOS/Linux_Goodline_Project_for_iOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "AC14CA54-B31C-4A1A-9E0C-C26BB59A65D5 - b349e3652efa9feb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Linux_Goodline_Project_for_iOS.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Linux_Goodline_Project_for_iOS.ViewController&gt;"
+                  moduleName = "Linux_Goodline_Project_for_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svetlana_lyukina/Desktop/Linux_Goodline_Project_for_iOS/Linux_Goodline_Project_for_iOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
